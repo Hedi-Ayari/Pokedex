@@ -1,0 +1,320 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+.gr-1 {
+  background: linear-gradient(170deg, #01E4F8 0%, #1D3EDE 100%);
+}
+.gr-2 {
+  background: linear-gradient(170deg, #B4EC51 0%, #429321 100%);
+}
+.gr-3 {
+  background: linear-gradient(170deg, #C86DD7 0%, #3023AE 100%);
+}
+* {
+  transition: 0.5s;
+}
+.h-100 {
+  height: 100vh !important;
+}
+.align-middle {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.column {
+  margin-top: 3rem;
+  padding-left: 3rem;
+}
+.column:hover {
+  padding-left: 0;
+}
+.btnStyleType{
+  background-color: #FDEEDC !important;
+  margin-right: 30px;
+  border-radius: 20px !important;
+  width: 150px;
+  margin-bottom: 30px;
+
+}
+.colorr2{
+  background-color: #0d6efd;
+  
+  height: 930px;
+}
+.column:hover .card .txt {
+  margin-left: 1rem;
+}
+.column:hover .card .txt h1, .column:hover .card .txt p {
+  color: rgba(0, 0, 0, 0.2);;
+  opacity: 1;
+}
+.column:hover a {
+  color: white;
+}
+
+.BackgroundTypes{
+  background-color: #D2D79F;
+  
+}
+.typeCarCol{
+  color: white;
+}
+.styleBack{
+  margin-left: 30px !important;
+}
+.BackColor{
+  background-color: #382424;
+}
+.Imageee{
+  width:25% ;
+  height: 25%;
+}
+.BackgroundColorCarac22{
+  background-color: #382424   ;
+  height: 1000px;
+}
+.BackgroundColorPokeDesk{
+  
+  background-repeat: no-repeat;
+  background-color: #F7F6DC;
+  background-size: 400px 400px;
+  width: 100%; 
+  height: 100%;
+  background-position: 10% 75%
+}
+.column:hover a:after {
+  width: 10%;
+}
+.sizeimg{
+  height: 80px;
+  width: 80px;
+}
+.logo_loading{
+  text-align:center
+}
+.colorText{
+  color: #fffbec;
+}
+.colorr{
+  background-color: #0E1F40;
+  
+  height: 930px;
+}
+.buttonCol{
+  background-color: #FF7A2E;
+}
+.ml-1{
+  margin-left:700px
+
+}
+.cardd {
+  border: none;
+  border-radius: 10px;
+  background-color: #0E1F40;
+
+}
+
+.c-details span {
+  font-weight: 300;
+  font-size: 13px
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+  background-color: #eee;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 39px
+}
+
+.badge span {
+  background-color: #fffbec;
+  width: 60px;
+  height: 25px;
+  padding-bottom: 3px;
+  border-radius: 5px;
+  display: flex;
+  color: #fed85d;
+  justify-content: center;
+  align-items: center
+}
+
+.progress {
+  height: 10px;
+  border-radius: 10px
+}
+
+.progress div {
+  background-color: red
+}
+
+.text1 {
+  font-size: 14px;
+  font-weight: 600
+}
+
+.text2 {
+  color: #a5aec0
+}
+@import url('https://fonts.googleapis.com/css?family=Oswald:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+.gr-1 {
+  background: linear-gradient(170deg, #01E4F8 0%, #1D3EDE 100%);
+}
+.gr-2 {
+  background: linear-gradient(170deg, #B4EC51 0%, #429321 100%);
+}
+.gr-3 {
+  background: linear-gradient(170deg, #C86DD7 0%, #3023AE 100%);
+}
+* {
+  transition: 0.5s;
+}
+.h-100 {
+  height: 100vh !important;
+}
+.align-middle {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.column {
+  margin-top: 3rem;
+  padding-left: 3rem;
+}
+.column:hover {
+  padding-left: 0;
+}
+.column:hover .card .txt {
+  margin-left: 1rem;
+}
+.column:hover .card .txt h1, .column:hover .card .txt p {
+  color: rgba(0, 0, 0, 0.2);;
+  opacity: 1;
+}
+.column:hover a {
+  color: white;
+}
+.typeCarCol{
+  color: white;
+}
+.StatsStyle{
+  text-decoration: underline;
+  text-decoration-style: solid;
+}
+.btnStyle{
+  padding-left: 10px;
+  background-color: #43403F !important;
+  border-radius: 20px !important;
+  width: 80px;
+  height: 40px;
+}
+.DescriptionStyle{
+  margin-left: 20px;
+}
+.BackColor{
+  background-color: #607EAA;
+}
+.styleBack{
+  margin-left: 30px !important;
+
+}
+.NamePokStyle{
+  margin-left: 30px !important;
+}
+.Imageee{
+  width:25% ;
+  height: 25%;
+}
+.BackgroundColorCarac22{
+  background-color: #382424  ;
+  height: 1000px;
+}
+.BackgroundColorPokeDesk{
+  
+  background-repeat: no-repeat;
+  background-color: #F7F6DC;
+  background-size: 400px 400px;
+  width: 100%; 
+  height: 100%;
+  background-position: 10% 75%
+}
+.column:hover a:after {
+  width: 10%;
+}
+.sizeimg{
+  height: 80px;
+  width: 80px;
+}
+.logo_loading{
+  text-align:center
+}
+.colorText{
+  color: #fffbec;
+}
+.colorr{
+  background-color: #0E1F40;
+  
+  height: 930px;
+}
+.buttonCol{
+  background-color: #FF7A2E;
+}
+.ml-1{
+  margin-left:700px
+
+}
+.cardd {
+  border: none;
+  border-radius: 10px;
+  background-color: #0E1F40;
+
+}
+
+.c-details span {
+  font-weight: 300;
+  font-size: 13px
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+  background-color: #eee;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 39px
+}
+
+.badge span {
+  background-color: #fffbec;
+  width: 60px;
+  height: 25px;
+  padding-bottom: 3px;
+  border-radius: 5px;
+  display: flex;
+  color: #fed85d;
+  justify-content: center;
+  align-items: center
+}
+
+.progress {
+  height: 10px;
+  border-radius: 10px
+}
+
+.progress div {
+  background-color: red
+}
+
+.text1 {
+  font-size: 14px;
+  font-weight: 600
+}
+
+.text2 {
+  color: #a5aec0
+}
