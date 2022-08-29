@@ -1,7 +1,7 @@
 
 # Pokedex
 
-it's a simple project to master recoil and React Query in this project 
+it's a simple project to master recoil and React Query. In this project 
 The user will be able to filter the Pokemons by type .The user will also be able to select his favorite Pokemons and create his own Pokédex.
 
 
